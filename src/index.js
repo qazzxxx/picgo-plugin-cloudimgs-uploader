@@ -19,7 +19,10 @@ const handle = async (ctx) => {
   }
   const url = userConfig.url
   const password = userConfig.password
-  const dir = userConfig.dir
+  let dir = userConfig.dir
+  if (dir) {
+      dir = dir.replace(/^\/+/, '').replace(/\/+$/, '')
+  }
 
   const imgList = ctx.output
   for (let i in imgList) {
