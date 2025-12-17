@@ -10,6 +10,10 @@
 
     插件设置当中搜索 cloudimgs-uploader
 
+- npm
+
+  npm install picgo-plugin-cloudimgs-uploader
+
 ### 离线安装
 
 克隆本仓库，复制项目到 PicGo/PicList 插件目录，执行 `npm install`，然后重启应用即可。
