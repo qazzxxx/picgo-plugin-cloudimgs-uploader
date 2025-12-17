@@ -1,0 +1,22 @@
+{
+  "name": "picgo-plugin-cloudimgs-uploader",
+  "version": "1.0.1",
+  "description": "云图 图床上传插件",
+  "main": "src/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "picgo",
+    "picgo-gui-plugin",
+    "picgo-plugin",
+    "uploader",
+    "cloudimgs",
+    "云图"
+  ],
+  "author": "qazzxxx",
+  "license": "MIT"
+}
