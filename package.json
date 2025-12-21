@@ -1,6 +1,6 @@
 {
   "name": "picgo-plugin-cloudimgs-uploader",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "云图 图床上传插件",
   "homepage": "https://github.com/qazzxxx/picgo-plugin-cloudimgs-uploader",
   "main": "src/index.js",
