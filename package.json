@@ -16,8 +16,12 @@
     "picgo-plugin",
     "uploader",
     "cloudimgs",
+    "picgo-plugin-cloudimgs-uploader",
     "云图"
   ],
   "author": "qazzxxx",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qazzxxx/picgo-plugin-cloudimgs-uploader/issues"
+  }
 }
